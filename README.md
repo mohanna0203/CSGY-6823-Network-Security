@@ -1,0 +1,1 @@
+This repository contains hands-on labs focusing on web security, network protection, and security testing designed to provide practical experience in identifying and mitigating security vulnerabilities.
